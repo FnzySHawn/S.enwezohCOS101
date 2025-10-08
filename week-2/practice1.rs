@@ -8,6 +8,6 @@ fn main(){
               3. Understand the different areas of study in computer science,/n  
               4. Conversant with applications of computer science,/n 
               5. Navigate the career prospects in computer science./science
-              6. Conversant with computer programming concepts." ):
+              6. Conversant with computer programming concepts." );
 }
              
