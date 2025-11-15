@@ -1,0 +1,5 @@
+C:\Users\kidme\OneDrive\Documents\S.enwezohCOS101\week7\project\target\debug\deps\project.d: src\main.rs
+
+C:\Users\kidme\OneDrive\Documents\S.enwezohCOS101\week7\project\target\debug\deps\project.exe: src\main.rs
+
+src\main.rs:
