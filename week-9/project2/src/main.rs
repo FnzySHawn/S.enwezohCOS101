@@ -43,10 +43,8 @@ fn main() {
         println!("\nEnter Student Details:");
         let student = get_user();
 
-        // push tuple into vector
         students.push(student);
 
-        // Ask if another student should be added
         let mut again = String::new();
         println!("Add another student? (y/n)");
         io::stdin().read_line(&mut again).unwrap();
